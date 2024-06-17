@@ -1,0 +1,13 @@
+
+/* Droid Sans */
+
+@font-face {
+    font-family: DroidSans-Bold;
+    src: url('../font/DroidSans-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: DroidSans;
+    src: url('../font/DroidSans.ttf');
+}
